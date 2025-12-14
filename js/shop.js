@@ -8,7 +8,7 @@ const Shop = {
             id: 'edsl-complete',
             name: 'EDSL Complete Set',
             description: 'Complete Equine Dental Speculum Light Set including lamp, battery holder, charger, and aluminum case.',
-            price: 895.00,
+            price: 545.00,
             image: 'box'
         },
         'edsl-lamp': {
